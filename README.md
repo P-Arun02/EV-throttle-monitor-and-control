@@ -1,5 +1,5 @@
 # EV-throttle-monior-and-control
-A project which monitors and controls throttle of a electric bike using Internet  of Things (IoT).\n
+A project which monitors and controls throttle of a electric bike using Internet  of Things (IoT).<br />
 RemoteXY platform is used to create GUI for the control and monitoring application available in Android and iOS\n
 Arduino UNO development board (ATmega328P) in serial with ESP8266 module has been used to communicate with the cloud
 

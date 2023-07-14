@@ -13,7 +13,7 @@ A.HARDWARE REQUIREMENTS :-<br />
   6.Serial USB communication cable for Arduino to burn .hex file to MCU<br />
   
 B.SOFWARE REQUIREMENTS<br />
-  1.Arduino IDE                                     - [download link](https://www.arduino.cc/en/software)<br />
+ &nbsp 1.Arduino IDE                                     - [download link](https://www.arduino.cc/en/software)<br />
   2.RemoteXY library installed in Arduino IDE       - [download link](https://remotexy.com/en/library/)<br />
   3.RemoteXY android / iOS app                      - [download link](https://remotexy.com/en/download/)<br />
   4.LiquidCrystal_I2C library installed in          - in Arduino library manager<br />
